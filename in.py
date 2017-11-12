@@ -1,0 +1,6 @@
+f=open('details.txt','w')
+f.write(raw_input()+"\n")
+f.write(raw_input()+"\n")
+f.write(raw_input()+"\n")
+f.write(raw_input()+"\n")
+f.close()
