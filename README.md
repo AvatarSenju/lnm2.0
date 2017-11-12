@@ -1,2 +1,3 @@
 # lnm2.0
-who nos
+this repo has been created for 
+# lnmhacks 2.0
